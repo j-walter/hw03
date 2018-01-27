@@ -2,7 +2,7 @@ server {
 	listen 80;
 	listen [::]:80;
 
-	server_name memory.ironbeard.com;
+	server_name memory.loopback.onl;
 
 	location / {
 		proxy_pass http://localhost:5100;
