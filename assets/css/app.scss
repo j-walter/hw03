@@ -1,0 +1,13 @@
+/* This file is for your main application css. */
+
+@import "bootstrap";
+.tiles { margin:20px 0; }
+.clear { clear:both; }
+.tile { 
+  font-size:2em; 
+  border:1px solid #000; 
+  text-align:center; 
+  width:24%; 
+  float:left;
+}
+h1 { text-align: center; }
